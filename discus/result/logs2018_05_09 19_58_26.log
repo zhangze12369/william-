@@ -1,0 +1,14 @@
+使用谷歌浏览器
+成功打开网页http://127.0.0.1:8086/BBS/
+输入zhangze成功！
+输入password成功！
+点击成功[[ChromeDriver: chrome on XP (6e9f8e4b8e85621b86ea6816fadf7d17)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+输入haotest成功！
+点击成功[[ChromeDriver: chrome on XP (6e9f8e4b8e85621b86ea6816fadf7d17)] -> id: scbar_btn]
+点击成功[[ChromeDriver: chrome on XP (6e9f8e4b8e85621b86ea6816fadf7d17)] -> xpath: //*[@id="45"]/h3/a]
+跳转到新的页面
+寻找目标字段失败>
+获取内容成功 class name: ts
+预期文字是：[haotest],但实际文字是: [haotest haotest!!]
+找到了对应title，当前页面正确：【haotest haotest!!】
+点击成功[[ChromeDriver: chrome on XP (6e9f8e4b8e85621b86ea6816fadf7d17)] -> xpath: //*[@id="um"]/p[1]/a[4]]

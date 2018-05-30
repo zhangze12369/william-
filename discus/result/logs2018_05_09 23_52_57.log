@@ -1,0 +1,9 @@
+使用谷歌浏览器
+成功打开网页http://127.0.0.1:8086/BBS/
+输入zhangze成功！
+输入password成功！
+点击成功[[ChromeDriver: chrome on XP (38f24a95990bcc34a94fd3d2ca78feec)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+点击成功[[ChromeDriver: chrome on XP (38f24a95990bcc34a94fd3d2ca78feec)] -> xpath: //*[@id="category_1"]/table/tbody/tr[1]/td[4]/div/a]
+输入这是一首简单的小情歌！！！成功！
+点击成功[[ChromeDriver: chrome on XP (38f24a95990bcc34a94fd3d2ca78feec)] -> id: fastpostsubmit]
+点击成功[[ChromeDriver: chrome on XP (38f24a95990bcc34a94fd3d2ca78feec)] -> link text: 退出]

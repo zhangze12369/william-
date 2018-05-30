@@ -1,0 +1,15 @@
+使用谷歌浏览器
+成功打开网页http://127.0.0.1:8086/BBS/
+输入admin成功！
+输入password成功！
+点击成功[[ChromeDriver: chrome on XP (287b9ff72cd2fc509d1b169c0f36dd9c)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+点击成功[[ChromeDriver: chrome on XP (287b9ff72cd2fc509d1b169c0f36dd9c)] -> link text: 默认版块]
+点击成功[[ChromeDriver: chrome on XP (287b9ff72cd2fc509d1b169c0f36dd9c)] -> name: moderate[]]
+点击成功[[ChromeDriver: chrome on XP (287b9ff72cd2fc509d1b169c0f36dd9c)] -> xpath: //*[@id="mdly"]/p[1]/strong[1]/a]
+点击成功[[ChromeDriver: chrome on XP (287b9ff72cd2fc509d1b169c0f36dd9c)] -> name: modsubmit]
+点击成功[[ChromeDriver: chrome on XP (287b9ff72cd2fc509d1b169c0f36dd9c)] -> link text: 管理中心]
+跳转到新页面
+输入password成功！
+跳转到新页面
+点击成功[[ChromeDriver: chrome on XP (287b9ff72cd2fc509d1b169c0f36dd9c)] -> name: submit]
+点击操作失败[[ChromeDriver: chrome on XP (287b9ff72cd2fc509d1b169c0f36dd9c)] -> xpath: //*[@id="menu_index"]/li[3]/a]

@@ -1,0 +1,10 @@
+使用谷歌浏览器
+成功打开网页http://127.0.0.1:8086/BBS/
+输入admin成功！
+输入password成功！
+点击成功[[ChromeDriver: chrome on XP (e220be6c2f093dd6af499dcc15e2862a)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+点击成功[[ChromeDriver: chrome on XP (e220be6c2f093dd6af499dcc15e2862a)] -> link text: 默认版块]
+点击成功[[ChromeDriver: chrome on XP (e220be6c2f093dd6af499dcc15e2862a)] -> name: moderate[]]
+点击成功[[ChromeDriver: chrome on XP (e220be6c2f093dd6af499dcc15e2862a)] -> xpath: //*[@id="mdly"]/p[1]/strong[1]/a]
+点击成功[[ChromeDriver: chrome on XP (e220be6c2f093dd6af499dcc15e2862a)] -> name: modsubmit]
+点击成功[[ChromeDriver: chrome on XP (e220be6c2f093dd6af499dcc15e2862a)] -> link text: 管理中心]

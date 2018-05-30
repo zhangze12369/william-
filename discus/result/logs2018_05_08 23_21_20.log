@@ -1,0 +1,12 @@
+使用谷歌浏览器
+成功打开网页http://127.0.0.1:8086/BBS/
+输入zhangze成功！
+输入password成功！
+点击成功[[ChromeDriver: chrome on XP (9f1acba3141e9843d20480a31b63b831)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+点击成功[[ChromeDriver: chrome on XP (9f1acba3141e9843d20480a31b63b831)] -> link text: 默认版块]
+输入我不管，我最帅，我是你的小可爱！成功！
+输入estNG是一个设计用来简化广泛的测试需求的测试框架，从单元测试（隔离测试一个类）到集成测试（测试由有多个类多个包甚至多个外部框架组成的整个系统，例如运用服务器。成功！
+点击成功[[ChromeDriver: chrome on XP (9f1acba3141e9843d20480a31b63b831)] -> id: fastpostsubmit]
+输入org.openqa.selenium.NoSuchSessionException: Session ID is null.成功！
+点击成功[[ChromeDriver: chrome on XP (9f1acba3141e9843d20480a31b63b831)] -> id: fastpostsubmit]
+点击成功[[ChromeDriver: chrome on XP (9f1acba3141e9843d20480a31b63b831)] -> link text: 退出]

@@ -1,0 +1,7 @@
+使用谷歌浏览器
+成功打开网页http://127.0.0.1:8086/BBS/
+输入zhangze成功！
+输入password成功！
+点击成功[[ChromeDriver: chrome on XP (4ddb1562b0c8e95110437d26cfadcdb2)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+输入haotest成功！
+点击成功[[ChromeDriver: chrome on XP (4ddb1562b0c8e95110437d26cfadcdb2)] -> id: scbar_btn]

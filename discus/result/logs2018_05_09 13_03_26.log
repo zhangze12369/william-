@@ -1,0 +1,16 @@
+使用谷歌浏览器
+成功打开网页http://127.0.0.1:8086/BBS/
+输入admin成功！
+输入password成功！
+点击成功[[ChromeDriver: chrome on XP (b17b296409da05ed473c2291a516c932)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+点击成功[[ChromeDriver: chrome on XP (b17b296409da05ed473c2291a516c932)] -> link text: 默认版块]
+点击成功[[ChromeDriver: chrome on XP (b17b296409da05ed473c2291a516c932)] -> name: moderate[]]
+点击成功[[ChromeDriver: chrome on XP (b17b296409da05ed473c2291a516c932)] -> xpath: //*[@id="mdly"]/p[1]/strong[1]/a]
+点击成功[[ChromeDriver: chrome on XP (b17b296409da05ed473c2291a516c932)] -> name: modsubmit]
+点击成功[[ChromeDriver: chrome on XP (b17b296409da05ed473c2291a516c932)] -> link text: 管理中心]
+输入password成功！
+点击成功[[ChromeDriver: chrome on XP (b17b296409da05ed473c2291a516c932)] -> name: submit]
+点击成功[[ChromeDriver: chrome on XP (b17b296409da05ed473c2291a516c932)] -> link text: 论坛]
+成功跳转[[ChromeDriver: chrome on XP (b17b296409da05ed473c2291a516c932)] -> id: main]的iframe
+点击成功[[ChromeDriver: chrome on XP (b17b296409da05ed473c2291a516c932)] -> xpath: //*[@id="cpform"]/table/tbody[3]/tr/td[2]/div/a]
+点击成功[[ChromeDriver: chrome on XP (b17b296409da05ed473c2291a516c932)] -> id: submit_editsubmit]
